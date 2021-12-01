@@ -45,6 +45,7 @@ def circulate():
 
 ## Output:
 
-![git logo](/ir.png)
+![git logo](./ir.png)
 
 ## Result:
+Thus the values inside the list are successfully circulated
